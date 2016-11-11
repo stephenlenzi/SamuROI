@@ -15,6 +15,7 @@ SamuROI requires the following python packages:
 - scikit-image
 - pyqt
 - pillow
+- foo
 
 ## Installation
 ### From source with conda (recommended)
